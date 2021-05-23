@@ -21,6 +21,10 @@ Documentation for classic design patterns
 - Унифицируют терминологию
 - Позволяют заново использовать удачные решения
 
+Недостатки паттернов:
+- Консервативные громоздкие решения
+- Повышают критическую сложность систем, если использовать большое количество шаблонов
+
 ## ООП
 
 ## Шаблоны GRASP
@@ -28,3 +32,7 @@ Documentation for classic design patterns
 ## Шаблоны GoF
 
 ## Рефакторинг
+
+## Использованные источники
+
+- [Курс по шаблонам разработки|https://www.youtube.com/watch?v=S-RjiMAxHio&list=PLmqFxxywkatStbd9hdzVOS1hZa9dc56k4]
