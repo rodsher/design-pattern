@@ -55,3 +55,4 @@ Documentation for classic design patterns
 ## Использованные источники
 
 - [Курс по шаблонам разработки](https://www.youtube.com/watch?v=S-RjiMAxHio&list=PLmqFxxywkatStbd9hdzVOS1hZa9dc56k4)
+- [Полиморфизм простыми словами](https://medium.com/devschacht/polymorphism-207d9f9cd78)
