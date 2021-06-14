@@ -48,7 +48,13 @@ Documentation for classic design patterns
 
 ## UML
 
-**UML** от английского Unified Modeling Language. **UML** - язык графического описания для объектного моделирования в области разработки программного обеспечения.
+**UML** - язык графического описания для объектного моделирования в области разработки программного обеспечения. UML от английского Unified Modeling Language. 
+UML является языком широкого профиля. UML открытый стандарт, использующий графические обозначения для создания абстрактной модели системы. Такая абстрактая модель системы называется UML моделью.
+
+Задачи UML:
+- Проектирование
+- Реверс-инжиниринг
+- Извлечение текстовой информации из моделей
 
 ## Шаблоны GRASP
 
@@ -60,3 +66,4 @@ Documentation for classic design patterns
 
 - [Курс по шаблонам разработки](https://www.youtube.com/watch?v=S-RjiMAxHio&list=PLmqFxxywkatStbd9hdzVOS1hZa9dc56k4)
 - [Полиморфизм простыми словами](https://medium.com/devschacht/polymorphism-207d9f9cd78)
+- [UML для бизнес-моделирования: зачем нужны диаграммы процессов](https://evergreens.com.ua/ru/articles/uml-diagrams.html)
